@@ -7,8 +7,7 @@
 A modern, responsive contact form with PHP validation and elegant styling. Clean UI, accessible markup, and both client-side and server-side validation make this an easy drop-in contact form for small sites and static pages served with PHP.
 
 Demo
-![Demo](<img width="1863" height="916" alt="contact form" src="https://github.com/user-attachments/assets/74835c2f-76e6-4b4c-9ccb-0b3b1e422319" />
-)
+![Demo](https://github.com/reezmahanan/Contact-Form/blob/main/contact%20form.png)
 
 Features
 - ✨ Modern UI Design — Gradient background and card layout
