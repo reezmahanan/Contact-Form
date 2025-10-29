@@ -107,11 +107,11 @@ Adding New Fields
 3. Adjust styles as needed
 
 File Structure
-php-contact-form/
-├── contact-form.php          # Main form file (HTML + PHP)
-├── README.md                 # Project documentation
-├── LICENSE                   # MIT License
-└── screenshot.png            # Form screenshot / demo image
+php-contact-form/  
+├── contact-form.php           # Main form file (HTML + PHP)
+├── README.md                  # Project documentation
+├── LICENSE                    # MIT License
+└── screenshot.png             # Form screenshot / demo image
 
 Browser Support
 - Chrome (latest)
