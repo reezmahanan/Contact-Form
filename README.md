@@ -34,7 +34,7 @@ Table of Contents
 Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/reezmahanan/Form.git
+git clone https://github.com/reezmahanan/Contact-Form.git
 cd Form
 ```
 
